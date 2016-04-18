@@ -6,6 +6,7 @@
   "projectUrl": "",
   "licenseUrl": "",
   "dependencies": {
+        "Autofac": "4.0.0-rc1-177",
 		"Rx-Core": "2.2.5",
 		"Rx-Interfaces": "2.2.5",
 		"Rx-Linq": "2.2.5"

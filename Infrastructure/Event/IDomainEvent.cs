@@ -1,7 +1,7 @@
-﻿namespace common.ddd.Infrastructure.Event
+﻿namespace Common.Ddd.Infrastructure.Event
 {
-  public interface IDomainEvent
-  {
-    string Id { get; }
-  }
+    public interface IDomainEvent
+    {
+        string Id { get; }
+    }
 }
